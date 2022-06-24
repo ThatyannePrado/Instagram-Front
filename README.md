@@ -1,4 +1,4 @@
-# Página Login do Instagram
+# Página de Login do Instagram
 
 Página inicial de login do Instagram, feita usando HTML e CSS. <br>
 O alinhamento é realizado utilizando FlexBox. <br>
